@@ -479,7 +479,7 @@ function genDateArray (start, end) {
 function sortByRankAndName (sort_file) {
   // sort the pers list by rank and then name
   let ordering = {};
-  let sortOrder = ['COL', 'LTC', 'MAJ', 'CPT', '1LT', '2LT', 'CSM', 'SGM', '1SG', 'MSG', 'SFC', 'SSG', 'SGT', 'CPL', 'SPC', 'PFC', 'PV2', 'PVT']
+  let sortOrder = ['MAJ', 'LCDR', 'Maj', 'CPT', 'LT', 'Capt', '1LT', 'LTJG', '1st L', '2LT', 'EN', '2d LT','MSG', 'SCPO', 'SFC', 'CPO', 'MSgt', 'SSG', 'PO1', 'TSgt', 'SGT', 'PO2', 'SSgt', 'CPL', 'PO3', 'SPC', 'SrA', 'PFC', 'SN', 'A1C', 'PV2', 'SA', 'Amn', 'PVT', 'SB', 'AB']
 
   sortOrder.forEach((key, value) => { ordering[key] = value });
   sort_file.sort((a, b) => {
