@@ -50,41 +50,43 @@ The data structure of the 'da6_pers_list' is the following
 The 'dutyStatus' is either the days since the last duty (if the Service Member is available for duty) or the 'A', 'U', or 'D'
 
 
-## Rank will prioritize in this descending order: USA -> USN -> USAF
+## Rank will prioritize in this descending order: 
 
--MAJ
--LCDR 
--Maj 
--CPT
--LT 
--Capt 
--1LT 
--LTJG 
--1st Lt 
--2LT 
--ENS 
--2d LT
--MSG 
--SCPO 
--SFC 
--CPO 
--MSgt 
--SSG 
--PO1 
--TSgt 
--SGT 
--PO2 
--SSgt 
--CPL 
--PO3 
--SPC 
--SrA 
--PFC 
--SN 
--A1C 
--PV2 
--SA 
--Amn 
--PVT 
--SR 
--AB
+USA -> USN -> USAF
+
+- MAJ
+- LCDR 
+- Maj 
+- CPT
+- LT 
+- Capt 
+- 1LT 
+- LTJG 
+- 1st Lt 
+- 2LT 
+- ENS 
+- 2d LT
+- MSG 
+- SCPO 
+- SFC 
+- CPO 
+- MSgt 
+- SSG 
+- PO1 
+- TSgt 
+- SGT 
+- PO2 
+- SSgt 
+- CPL 
+- PO3 
+- SPC 
+- SrA 
+- PFC 
+- SN 
+- A1C 
+- PV2 
+- SA 
+- Amn 
+- PVT 
+- SR 
+- AB
