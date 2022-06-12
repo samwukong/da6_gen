@@ -52,39 +52,39 @@ The 'dutyStatus' is either the days since the last duty (if the Service Member i
 
 ## Rank will prioritize in this descending order: USA -> USN -> USAF
 
-MAJ
-LCDR 
-Maj 
-CPT
-LT 
-Capt 
-1LT 
-LTJG 
-1st Lt 
-2LT 
-ENS 
-2d LT
-MSG 
-SCPO 
-SFC 
-CPO 
-MSgt 
-SSG 
-PO1 
-TSgt 
-SGT 
-PO2 
-SSgt 
-CPL 
-PO3 
-SPC 
-SrA 
-PFC 
-SN 
-A1C 
-PV2 
-SA 
-Amn 
-PVT 
-SR 
-AB
+-MAJ
+-LCDR 
+-Maj 
+-CPT
+-LT 
+-Capt 
+-1LT 
+-LTJG 
+-1st Lt 
+-2LT 
+-ENS 
+-2d LT
+-MSG 
+-SCPO 
+-SFC 
+-CPO 
+-MSgt 
+-SSG 
+-PO1 
+-TSgt 
+-SGT 
+-PO2 
+-SSgt 
+-CPL 
+-PO3 
+-SPC 
+-SrA 
+-PFC 
+-SN 
+-A1C 
+-PV2 
+-SA 
+-Amn 
+-PVT 
+-SR 
+-AB
