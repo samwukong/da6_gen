@@ -7,7 +7,7 @@ Rank, Name, Days Since Last
 
 This automatically creates a DA6 roster which can be copied to Excel for easy printing
 
-Each cell is 'clickable' to change the Soldier's status during that day between:
+Each cell is 'clickable' to change the Service Member's status during that day between:
 Available, 'A', 'D', or 'U'. See AR 220-45 for the meaning of these designators.
 
 From AR 220-45
@@ -47,4 +47,4 @@ The data structure of the 'da6_pers_list' is the following
 -- daysSinceLastDuty: Number
 -- dutyStatus: Number or Letter
 
-The 'dutyStatus' is either the days since the last duty (if the Soldier is available for duty) or the 'A', 'U', or 'D'
+The 'dutyStatus' is either the days since the last duty (if the Service Member is available for duty) or the 'A', 'U', or 'D'
